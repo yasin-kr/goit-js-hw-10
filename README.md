@@ -1,1 +1,1 @@
-goit-js-hw-10
+Goit-js-hw-10
